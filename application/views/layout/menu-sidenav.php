@@ -85,7 +85,7 @@
                 <a class="collapse-item" href="<?php echo base_url(); ?>index.php/empleados/testAdmin">Empleados</a>
                 <a class="collapse-item" href="<?php echo base_url(); ?>index.php/clients/testAdmin">Clientes</a>
                 <a class="collapse-item" href="<?php echo base_url(); ?>index.php/ventas/testAdmin">Ventas</a>
-                <a class="collapse-item" href="register.html">Almacen</a>
+                <a class="collapse-item" href="<?php echo base_url(); ?>index.php/almacen/testAdmin">Almacen</a>
                 <a class="collapse-item" href="<?php echo base_url(); ?>index.php/usuarios/testAdmin">Usuarios</a>
                 <a class="collapse-item" href="forgot-password.html">Forgot Password</a>
                 <div class="collapse-divider"></div>
